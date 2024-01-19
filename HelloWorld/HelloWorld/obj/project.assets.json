@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/home/bbeluco/.nuget/packages/",
-      "outputPath": "/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/obj/",
+      "outputPath": "/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/bbeluco/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/233/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
