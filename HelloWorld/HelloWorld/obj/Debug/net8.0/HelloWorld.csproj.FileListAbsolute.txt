@@ -1,0 +1,14 @@
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/bin/Debug/net8.0/HelloWorld
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.deps.json
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.runtimeconfig.json
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.dll
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/bin/Debug/net8.0/HelloWorld.pdb
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfoInputs.cache
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.AssemblyInfo.cs
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.dll
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/obj/Debug/net8.0/refint/HelloWorld.dll
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.pdb
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/obj/Debug/net8.0/HelloWorld.genruntimeconfig.cache
+/home/bbeluco/Documents/Programming/Curso-CSharp/HelloWorld/obj/Debug/net8.0/ref/HelloWorld.dll
