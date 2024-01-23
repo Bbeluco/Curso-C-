@@ -18,14 +18,11 @@ namespace IntroductionClasses {
             y.B = double.Parse(Console.ReadLine());
             y.C = double.Parse(Console.ReadLine());
 
-            double p = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(p * (p-x.A) * (p-x.B) * (p - x.C));
+            double areaX = x.Area();
+            double areaY = y.Area();
 
-            p = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(p * (p-y.A) * (p-y.B) * (p - y.C));
-
-            System.Console.WriteLine("Area de X: " + areaX);
-            System.Console.WriteLine("Area de Y: " + areaY);
+            System.Console.WriteLine("Area de X: " + areaX.ToString("F2"));
+            System.Console.WriteLine("Area de Y: " + areaY.ToString("F2"));
 
             if(areaX > areaY) {
                 System.Console.WriteLine("Maior area: X");
