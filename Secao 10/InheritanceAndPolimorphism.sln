@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceAndPolimorphism"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverrideAndVirtual", "OverrideAndVirtual\OverrideAndVirtual.csproj", "{1BDC6AE2-02D0-415E-BA89-47B9DAE841C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio1", "Exercicio1\Exercicio1.csproj", "{FE4B1BC4-B3D7-4D0F-8D40-5C4D8ACC063C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio2", "Exercicio2\Exercicio2.csproj", "{6B7E7500-DC94-4AB9-9A96-9A082D3FCFF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{1BDC6AE2-02D0-415E-BA89-47B9DAE841C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BDC6AE2-02D0-415E-BA89-47B9DAE841C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BDC6AE2-02D0-415E-BA89-47B9DAE841C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE4B1BC4-B3D7-4D0F-8D40-5C4D8ACC063C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE4B1BC4-B3D7-4D0F-8D40-5C4D8ACC063C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE4B1BC4-B3D7-4D0F-8D40-5C4D8ACC063C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE4B1BC4-B3D7-4D0F-8D40-5C4D8ACC063C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B7E7500-DC94-4AB9-9A96-9A082D3FCFF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7E7500-DC94-4AB9-9A96-9A082D3FCFF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7E7500-DC94-4AB9-9A96-9A082D3FCFF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7E7500-DC94-4AB9-9A96-9A082D3FCFF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

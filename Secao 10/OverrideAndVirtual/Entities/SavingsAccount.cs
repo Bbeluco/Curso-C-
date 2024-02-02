@@ -14,7 +14,9 @@ public class SavingsAccount : Account
         Balance += Balance * InterestRate;
     }
 
-    public override void WithDraw(double amount)
+
+    //In this context "sealed" means the method cannot be override
+    public sealed override void WithDraw(double amount)
     {
 
         //"base" means we're using the father class
